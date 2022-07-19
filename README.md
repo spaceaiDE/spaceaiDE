@@ -25,6 +25,14 @@
 
 </details>
 
+### 2022
+<details>
+<summary>Expand</summary>
+
+- im currently focusing on react to learn, how websites actually works 
+
+</details>
+
 <br>
 
 ## Statistics
